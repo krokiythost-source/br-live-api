@@ -1,0 +1,15 @@
+[
+    {
+        "online": "927",
+        "maxonline": "1000",
+        "color": "ff0000",
+        "x2": "true",
+        "key": "1424",
+        "name": "RED",
+        "firstname": "RED",
+        "secondname": "",
+        "url": "blackrussia.online",
+        "ip": "127.0.0.1",
+        "port": "7777"
+    }
+]
